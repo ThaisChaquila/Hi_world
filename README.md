@@ -1,2 +1,4 @@
 # Hi_world
-Carpeta de instrucción 
+Esta es una carpeta de instrucción 
+
+Aún no entiendo su funcionalidad pero bueno
